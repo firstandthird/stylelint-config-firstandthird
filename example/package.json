@@ -1,0 +1,9 @@
+{
+  "description": "Example",
+  "dependencies": {},
+  "private": true,
+  "devDependencies": {
+    "stylelint": "^13.7.1",
+    "stylelint-plugin-import": "^1.0.2"
+  }
+}
