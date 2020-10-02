@@ -6,7 +6,7 @@ module.exports = {
   rules: {
     'order/properties-alphabetical-order': null,
     'max-nesting-depth': 4,
-    'max-empty-lines': 33,
+    'max-empty-lines': 1,
     'selector-max-compound-selectors': 4,
     'number-leading-zero': 'never',
     'selector-class-pattern': null,
