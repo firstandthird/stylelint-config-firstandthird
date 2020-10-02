@@ -1,0 +1,32 @@
+{
+  "name": "stylelint-config-firstandthird",
+  "version": "1.0.0",
+  "description": "Stylelint config for First+Third frontend",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/firstandthird/stylelint-config-firstandthird.git"
+  },
+  "keywords": [
+    "stylelint",
+    "postcss",
+    "lint"
+  ],
+  "author": "First+Third",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/firstandthird/stylelint-config-firstandthird/issues"
+  },
+  "homepage": "https://github.com/firstandthird/stylelint-config-firstandthird#readme",
+  "dependencies": {
+    "stylelint": "^13.7.1",
+    "stylelint-config-sass-guidelines": "^7.1.0",
+    "stylelint-config-standard": "^20.0.0",
+    "stylelint-plugin-import": "^1.0.2"
+  },
+  "peerDependencies": {
+    "stylelint": ">=13.x",
+    "stylelint-plugin-import": "^1.0.2"
+  }
+}
