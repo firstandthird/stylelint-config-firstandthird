@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "Stylelint config for First+Third frontend",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "prepublishOnly": "test",
+    "test": "jest"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/firstandthird/stylelint-config-firstandthird.git"
@@ -20,6 +23,7 @@
   },
   "homepage": "https://github.com/firstandthird/stylelint-config-firstandthird#readme",
   "dependencies": {
+    "jest": "^26.4.2",
     "stylelint": "^13.7.1",
     "stylelint-config-sass-guidelines": "^7.1.0",
     "stylelint-config-standard": "^20.0.0",
