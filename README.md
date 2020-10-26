@@ -7,4 +7,3 @@ Stylelint rules for First+Third frontend.
 ## Extends:
 
 - https://github.com/stylelint/stylelint-config-standard
-- https://github.com/bjankord/stylelint-config-sass-guidelines

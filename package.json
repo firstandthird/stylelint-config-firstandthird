@@ -21,7 +21,6 @@
   "homepage": "https://github.com/firstandthird/stylelint-config-firstandthird#readme",
   "dependencies": {
     "stylelint": "^13.7.1",
-    "stylelint-config-sass-guidelines": "^7.1.0",
     "stylelint-config-standard": "^20.0.0",
     "stylelint-plugin-import": "^1.0.2"
   },

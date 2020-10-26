@@ -1,7 +1,6 @@
 module.exports = {
   extends: [
-    'stylelint-config-standard',
-    'stylelint-config-sass-guidelines'
+    'stylelint-config-standard'
   ],
   rules: {
     'order/properties-alphabetical-order': null,
