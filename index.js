@@ -3,7 +3,6 @@ module.exports = {
     'stylelint-config-standard'
   ],
   rules: {
-    'order/properties-alphabetical-order': null,
     'max-nesting-depth': 4,
     'max-empty-lines': 1,
     'selector-max-compound-selectors': 4,
