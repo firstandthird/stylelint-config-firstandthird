@@ -8,6 +8,7 @@ module.exports = {
     'selector-max-compound-selectors': 4,
     'number-leading-zero': 'never',
     'selector-class-pattern': null,
+    'string-quotes': 'single',
     'block-closing-brace-empty-line-before': 'never',
     'selector-combinator-space-after': 'always',
     'selector-combinator-space-before': 'always',
