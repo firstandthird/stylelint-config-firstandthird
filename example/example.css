@@ -1,9 +1,22 @@
 .classname {
-
+  background: #FFFFFF;
 
   color: red;
+
+  .a {
+    .b {
+      .c {
+        .d {
+          text-align: center;
+        }
+      }
+    }
+  }
 }
 
-.test::before {
+.test{font-size:16px}
+
+.test:before {
   content: "something";
+  width: 10.0%;
 }
