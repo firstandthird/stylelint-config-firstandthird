@@ -1,15 +1,14 @@
 module.exports = {
   extends: [
-    'stylelint-config-standard',
-    'stylelint-config-sass-guidelines'
+    'stylelint-config-standard'
   ],
   rules: {
-    'order/properties-alphabetical-order': null,
     'max-nesting-depth': 4,
     'max-empty-lines': 1,
     'selector-max-compound-selectors': 4,
     'number-leading-zero': 'never',
     'selector-class-pattern': null,
+    'string-quotes': 'single',
     'block-closing-brace-empty-line-before': 'never',
     'selector-combinator-space-after': 'always',
     'selector-combinator-space-before': 'always',
